@@ -47,3 +47,5 @@ functions:
       - http:
           method: any
           path: /{proxy+}
+    tags:
+      yor_trace: a7ac4772-a1db-4715-8d6e-80ff9c814140
